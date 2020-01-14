@@ -5,6 +5,7 @@ class Student {
     this.age = age
     this.grade = grade
   }
+  
 }
 
 module.exports = Student;
